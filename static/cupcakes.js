@@ -10,7 +10,7 @@ function generateCupcakeHTML(cupcake) {
         </li>
         <img class="Cupcake-img"
               src="${cupcake.image}"
-              alt="image for cupcake>
+              alt="image for cupcake width="200" height="200">
        
       </div>
     `;
